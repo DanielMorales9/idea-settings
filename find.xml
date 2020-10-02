@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../data-check.py'" />
-    <option name="defaultScopeName" value="File '.../data-check.py'" />
+    <option name="customScope" value="Project 'migration'" />
+    <option name="defaultScopeName" value="Project 'migration'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../data-check.py'" />
+    <option name="SEARCH_SCOPE" value="Project 'migration'" />
   </component>
 </application>
