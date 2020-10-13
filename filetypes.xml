@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="grocery" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="touch" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
