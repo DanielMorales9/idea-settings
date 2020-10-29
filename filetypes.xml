@@ -4,6 +4,7 @@
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="tempFile" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="grocery" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
