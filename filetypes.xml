@@ -6,6 +6,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="tempFile" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-7a153c5c-abd5-4f9b-af6a-eaf702245947-c000.csv.crc" type="PLAIN_TEXT" />
       <mapping pattern="grocery" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
