@@ -11,6 +11,7 @@
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="mediathek" type="PLAIN_TEXT" />
       <mapping pattern="grocery" type="PLAIN_TEXT" />
+      <mapping pattern="s3" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="tempFile" type="PLAIN_TEXT" />
