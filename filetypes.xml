@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="composer.lock" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
@@ -12,13 +11,12 @@
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="mediathek" type="PLAIN_TEXT" />
       <mapping pattern="grocery" type="PLAIN_TEXT" />
-      <mapping pattern="s3" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
+      <mapping pattern="s3" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="tempFile" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping pattern="phpunit.xml.dist" type="XML" />
     </extensionMap>
   </component>
 </application>
