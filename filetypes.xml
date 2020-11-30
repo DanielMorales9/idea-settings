@@ -16,6 +16,7 @@
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="tempFile" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
+      <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
