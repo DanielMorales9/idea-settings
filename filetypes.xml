@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -11,15 +11,17 @@
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="mediathek" type="PLAIN_TEXT" />
       <mapping pattern="grocery" type="PLAIN_TEXT" />
-      <mapping pattern="s3" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
+      <mapping pattern="s3" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="tempFile" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="scimmia" type="PLAIN_TEXT" />
-      <mapping pattern="csv" type="PLAIN_TEXT" />
       <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
+      <mapping pattern="csv" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
