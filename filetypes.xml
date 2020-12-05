@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="_SUCCESS" type="AUTO_DETECTED" />
+      <mapping pattern="part-m-00000" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
@@ -22,6 +23,7 @@
       <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="csv" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="tsv-m-00000" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
