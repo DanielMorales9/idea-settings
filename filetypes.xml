@@ -4,6 +4,7 @@
       <mapping pattern="_SUCCESS" type="AUTO_DETECTED" />
       <mapping pattern="file" type="AUTO_DETECTED" />
       <mapping pattern="part-m-00000" type="AUTO_DETECTED" />
+      <mapping pattern="part-r-00000" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
