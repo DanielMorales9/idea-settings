@@ -2834,6 +2834,11 @@
                       <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
+                  <entry key="thrift">
+                    <value>
+                      <FeaturePluginData displayName="Thrift" pluginName="Thrift Support" pluginId="com.intellij.plugins.thrift" />
+                    </value>
+                  </entry>
                   <entry key="web">
                     <value>
                       <FeaturePluginData displayName="Web" pluginName="Java EE: Web/Servlets" pluginId="com.intellij.javaee.web" />
