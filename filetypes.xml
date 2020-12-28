@@ -35,6 +35,7 @@
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="spx" type="PLAIN_TEXT" />
       <mapping ext="tsv-m-00000" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
