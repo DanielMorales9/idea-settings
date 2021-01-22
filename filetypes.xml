@@ -1,8 +1,21 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern="avro" type="AUTO_DETECTED" />
+      <mapping pattern="inspection" type="AUTO_DETECTED" />
+      <mapping pattern="empty_columns" type="AUTO_DETECTED" />
+      <mapping pattern="map" type="AUTO_DETECTED" />
+      <mapping pattern="doc" type="AUTO_DETECTED" />
+      <mapping pattern="example" type="AUTO_DETECTED" />
+      <mapping pattern="_SUCCESS" type="AUTO_DETECTED" />
+      <mapping pattern="file" type="AUTO_DETECTED" />
+      <mapping pattern="project_columns" type="AUTO_DETECTED" />
+      <mapping pattern="_common_metadata" type="AUTO_DETECTED" />
+      <mapping pattern="part-m-00000" type="AUTO_DETECTED" />
+      <mapping pattern="ciao" type="AUTO_DETECTED" />
+      <mapping pattern="_metadata" type="AUTO_DETECTED" />
+      <mapping pattern="part-r-00000" type="AUTO_DETECTED" />
+      <mapping pattern="columns" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="cli" type="PLAIN_TEXT" />
@@ -11,8 +24,8 @@
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="mediathek" type="PLAIN_TEXT" />
       <mapping pattern="grocery" type="PLAIN_TEXT" />
-      <mapping pattern="s3" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
+      <mapping pattern="s3" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
@@ -27,25 +40,10 @@
       <mapping ext="spx" type="PLAIN_TEXT" />
       <mapping ext="tsv-m-00000" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="_SUCCESS" type="AUTO_DETECTED" />
-      <mapping pattern="_common_metadata" type="AUTO_DETECTED" />
-      <mapping pattern="_metadata" type="AUTO_DETECTED" />
-      <mapping pattern="avro" type="AUTO_DETECTED" />
-      <mapping pattern="ciao" type="AUTO_DETECTED" />
-      <mapping pattern="columns" type="AUTO_DETECTED" />
-      <mapping pattern="doc" type="AUTO_DETECTED" />
-      <mapping pattern="empty_columns" type="AUTO_DETECTED" />
-      <mapping pattern="example" type="AUTO_DETECTED" />
-      <mapping pattern="file" type="AUTO_DETECTED" />
-      <mapping pattern="inspection" type="AUTO_DETECTED" />
-      <mapping pattern="map" type="AUTO_DETECTED" />
-      <mapping pattern="part-m-00000" type="AUTO_DETECTED" />
-      <mapping pattern="part-r-00000" type="AUTO_DETECTED" />
-      <mapping pattern="project_columns" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
