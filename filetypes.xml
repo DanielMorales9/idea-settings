@@ -4,15 +4,15 @@
       <mapping pattern="avro" type="AUTO_DETECTED" />
       <mapping pattern="inspection" type="AUTO_DETECTED" />
       <mapping pattern="empty_columns" type="AUTO_DETECTED" />
-      <mapping pattern="map" type="AUTO_DETECTED" />
       <mapping pattern="doc" type="AUTO_DETECTED" />
+      <mapping pattern="map" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
       <mapping pattern="_SUCCESS" type="AUTO_DETECTED" />
       <mapping pattern="file" type="AUTO_DETECTED" />
       <mapping pattern="project_columns" type="AUTO_DETECTED" />
       <mapping pattern="_common_metadata" type="AUTO_DETECTED" />
-      <mapping pattern="part-m-00000" type="AUTO_DETECTED" />
       <mapping pattern="ciao" type="AUTO_DETECTED" />
+      <mapping pattern="part-m-00000" type="AUTO_DETECTED" />
       <mapping pattern="_metadata" type="AUTO_DETECTED" />
       <mapping pattern="part-r-00000" type="AUTO_DETECTED" />
       <mapping pattern="columns" type="AUTO_DETECTED" />
