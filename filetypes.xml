@@ -14,6 +14,7 @@
       <mapping pattern="doc" type="AUTO_DETECTED" />
       <mapping pattern="map" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
+      <mapping pattern="session" type="AUTO_DETECTED" />
       <mapping pattern="project_columns" type="AUTO_DETECTED" />
       <mapping pattern="ciao" type="AUTO_DETECTED" />
       <mapping pattern="columns" type="AUTO_DETECTED" />
