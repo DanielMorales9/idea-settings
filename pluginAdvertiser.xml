@@ -77,8 +77,8 @@
         <entry key="*.apk">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -124,6 +124,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -698,6 +707,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ini">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ipr">
           <value>
             <plugin>
@@ -712,6 +730,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -774,6 +793,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1047,11 +1067,20 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.ideolog" />
+              <option name="myPluginName" value="Ideolog" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mako">
           <value>
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1304,11 +1333,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.po">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.localization" />
+              <option name="myPluginName" value="GNU GetText files support (*.po)" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pom">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pot">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.localization" />
+              <option name="myPluginName" value="GNU GetText files support (*.po)" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.puppet" />
+              <option name="myPluginName" value="Puppet" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1361,8 +1417,8 @@
         <entry key="*.psd">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij.platform.images" />
+              <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1372,6 +1428,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1380,6 +1437,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1388,6 +1446,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1396,6 +1455,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1404,6 +1464,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1412,6 +1473,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1420,6 +1482,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1499,6 +1562,15 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.rst">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.rest" />
+              <option name="myPluginName" value="ReStructuredText" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1830,6 +1902,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1901,6 +1974,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2128,6 +2202,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".flowconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".gitmodules">
           <value>
             <plugin>
@@ -2286,6 +2369,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2890,6 +2974,11 @@
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="docs">
+                    <value>
+                      <FeaturePluginData displayName="Python docs" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
