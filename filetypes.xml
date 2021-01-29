@@ -18,6 +18,7 @@
       <mapping pattern="session" type="AUTO_DETECTED" />
       <mapping pattern="project_columns" type="AUTO_DETECTED" />
       <mapping pattern="ciao" type="AUTO_DETECTED" />
+      <mapping pattern="table" type="AUTO_DETECTED" />
       <mapping pattern="columns" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
