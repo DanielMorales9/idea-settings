@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-18-203-137-247.eu-west-1.compute.amazonaws.com" id="75477fe2-9a9f-4673-9aec-6db1db90f07a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="glue" />
+    </configs>
+  </component>
+</application>
