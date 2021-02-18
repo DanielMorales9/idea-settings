@@ -106,5 +106,16 @@
     <driver id="vertica">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="java.sql.Driver" name="Amazon Athena" dialect="Redshift" driver-class="com.simba.athena.jdbc.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$USER_HOME$/Downloads/AthenaJDBC42_2.0.9.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
