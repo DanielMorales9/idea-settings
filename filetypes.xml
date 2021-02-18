@@ -23,6 +23,7 @@
       <mapping pattern="ciao" type="AUTO_DETECTED" />
       <mapping pattern="table" type="AUTO_DETECTED" />
       <mapping pattern="columns" type="AUTO_DETECTED" />
+      <mapping pattern="video_error_unknown_by_device" type="AUTO_DETECTED" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="cli" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
