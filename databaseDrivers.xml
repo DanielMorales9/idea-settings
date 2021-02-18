@@ -114,7 +114,7 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
       <library>
-        <url>file://$USER_HOME$/Downloads/AthenaJDBC42_2.0.9.jar</url>
+        <url>file://$USER_HOME$/Downloads/AthenaJDBC42.jar</url>
       </library>
     </driver>
   </component>
