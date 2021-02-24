@@ -5,6 +5,7 @@
       <mapping pattern="stuff" type="AUTO_DETECTED" />
       <mapping pattern="_SUCCESS" type="AUTO_DETECTED" />
       <mapping pattern="file" type="AUTO_DETECTED" />
+      <mapping pattern="receivers" type="AUTO_DETECTED" />
       <mapping pattern="_common_metadata" type="AUTO_DETECTED" />
       <mapping pattern="part-m-00000" type="AUTO_DETECTED" />
       <mapping pattern="spotoverlay_event_mapping" type="AUTO_DETECTED" />
