@@ -1,0 +1,16 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/Projects/redbutton-data/.idea/redbutton-data.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/PycharmProjects/miscellaneuos/venv/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
