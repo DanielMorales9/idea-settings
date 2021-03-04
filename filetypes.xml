@@ -14,6 +14,7 @@
       <mapping pattern="select" type="AUTO_DETECTED" />
       <mapping pattern="avro" type="AUTO_DETECTED" />
       <mapping pattern="inspection" type="AUTO_DETECTED" />
+      <mapping pattern="build_lambda.sh" type="AUTO_DETECTED" />
       <mapping pattern="events" type="AUTO_DETECTED" />
       <mapping pattern="map" type="AUTO_DETECTED" />
       <mapping pattern="doc" type="AUTO_DETECTED" />
