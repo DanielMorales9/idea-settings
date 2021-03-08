@@ -730,6 +730,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -792,6 +793,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1078,6 +1080,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1425,6 +1428,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1433,6 +1437,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1441,6 +1446,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1449,6 +1455,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1457,6 +1464,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1465,6 +1473,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1473,6 +1482,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1892,6 +1902,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1963,6 +1974,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2357,6 +2369,7 @@
             <plugin>
               <option name="myPluginId" value="Pythonid" />
               <option name="myPluginName" value="Python" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>

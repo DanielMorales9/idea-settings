@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-34-242-209-237.eu-west-1.compute.amazonaws.com" id="75477fe2-9a9f-4673-9aec-6db1db90f07a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="glue" />
+      <sshConfig host="ec2-34-245-19-57.eu-west-1.compute.amazonaws.com" id="a0c2e500-24fc-4428-b18d-32272ff92e7d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="glue@ec2-34-245-19-57.eu-west-1.compute.amazonaws.com:22" nameFormat="CUSTOM" username="glue">
+        <option name="customName" value="glue@ec2-34-245-19-57.eu-west-1.compute.amazonaws.com:22" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
