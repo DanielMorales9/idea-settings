@@ -2,19 +2,15 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="empty_columns" type="AUTO_DETECTED" />
-      <mapping pattern="stuff" type="AUTO_DETECTED" />
       <mapping pattern="_SUCCESS" type="AUTO_DETECTED" />
       <mapping pattern="file" type="AUTO_DETECTED" />
-      <mapping pattern="receivers" type="AUTO_DETECTED" />
       <mapping pattern="_common_metadata" type="AUTO_DETECTED" />
       <mapping pattern="part-m-00000" type="AUTO_DETECTED" />
-      <mapping pattern="spotoverlay_event_mapping" type="AUTO_DETECTED" />
       <mapping pattern="_metadata" type="AUTO_DETECTED" />
       <mapping pattern="part-r-00000" type="AUTO_DETECTED" />
       <mapping pattern="select" type="AUTO_DETECTED" />
       <mapping pattern="avro" type="AUTO_DETECTED" />
       <mapping pattern="inspection" type="AUTO_DETECTED" />
-      <mapping pattern="build_lambda.sh" type="AUTO_DETECTED" />
       <mapping pattern="events" type="AUTO_DETECTED" />
       <mapping pattern="map" type="AUTO_DETECTED" />
       <mapping pattern="doc" type="AUTO_DETECTED" />
@@ -25,7 +21,8 @@
       <mapping pattern="ciao" type="AUTO_DETECTED" />
       <mapping pattern="table" type="AUTO_DETECTED" />
       <mapping pattern="columns" type="AUTO_DETECTED" />
-      <mapping pattern="video_error_unknown_by_device" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="cli" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -49,13 +46,9 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="spx" type="PLAIN_TEXT" />
       <mapping ext="tsv-m-00000" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
-      <mapping pattern="spotoverlay_error_rate.sql" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
