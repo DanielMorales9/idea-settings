@@ -5,8 +5,8 @@
       <mapping pattern="inspection" type="AUTO_DETECTED" />
       <mapping pattern="empty_columns" type="AUTO_DETECTED" />
       <mapping pattern="events" type="AUTO_DETECTED" />
-      <mapping pattern="doc" type="AUTO_DETECTED" />
       <mapping pattern="map" type="AUTO_DETECTED" />
+      <mapping pattern="doc" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
       <mapping pattern="_SUCCESS" type="AUTO_DETECTED" />
       <mapping pattern="file" type="AUTO_DETECTED" />
