@@ -41,6 +41,7 @@
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="setup" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern=".nmvrc" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern="TEMP" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
