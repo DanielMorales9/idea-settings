@@ -15,6 +15,7 @@
       <mapping pattern="map" type="AUTO_DETECTED" />
       <mapping pattern="doc" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
+      <mapping pattern="kafka.sh" type="AUTO_DETECTED" />
       <mapping pattern="session" type="AUTO_DETECTED" />
       <mapping pattern="project_columns" type="AUTO_DETECTED" />
       <mapping pattern="cols" type="AUTO_DETECTED" />
