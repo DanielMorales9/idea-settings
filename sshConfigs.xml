@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="54.78.242.56" id="0f9e9990-7564-4cd9-8005-c646741d7f54" keyPath="$USER_HOME$/.ssh/dmorales.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig host="54.77.160.238" id="b55a92e6-176c-4fe0-81a1-2acd76cc0766" keyPath="$USER_HOME$/.ssh/dmorales.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
