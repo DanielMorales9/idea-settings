@@ -33,6 +33,7 @@
       <mapping pattern="s3" type="PLAIN_TEXT" />
       <mapping pattern="prefix" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="tempFile" type="PLAIN_TEXT" />
       <mapping pattern=".nvrc" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
