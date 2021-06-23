@@ -22,6 +22,7 @@
       <mapping pattern="ciao" type="AUTO_DETECTED" />
       <mapping pattern="table" type="AUTO_DETECTED" />
       <mapping pattern="columns" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
