@@ -14,6 +14,10 @@
           <option name="url" value="http://gitlab.p7s1.io" />
           <option name="userName" value="dmorales" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.p7s1.io/psd-hbbtv/redbutton-retargeting-data-converter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects" />
